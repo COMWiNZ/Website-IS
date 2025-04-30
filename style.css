@@ -366,7 +366,7 @@ body {
     display: none;
   }
   /* Ipad */
-  @media only screen and (min-width: 768px)  and (max-width: 1000px) {
+  @media only screen and (min-width: 768px)  and (max-width: 1024px) {
     .logo {
       font-size: 20px;
     }
