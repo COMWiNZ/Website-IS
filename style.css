@@ -476,6 +476,7 @@ body {
   .emergency-card-II,
   .emergency-card-III {
     width: 30%; 
-    margin: 20px; 
+    margin: 20px;
+    min-height: 200px;
   }
   }
