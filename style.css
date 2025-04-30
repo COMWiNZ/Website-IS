@@ -145,6 +145,7 @@ body {
     flex-wrap: wrap;
     margin-top: 100px;
     flex-direction: row;
+    align-items: stretch;
   }
   .emergency-card-I {
     width: 330px;
@@ -155,9 +156,9 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
     display: flex;
-    flex-direction: column;  /* จัดเรียงเป็นแนวตั้ง */
-    justify-content: center;  /* จัดกลางในแนวนอน */
-    align-items: center;     /* จัดกลางในแนวตั้ง */
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;     
     margin-right: 150px;
   }
   .card ul {
